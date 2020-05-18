@@ -1,7 +1,9 @@
 # Numerical computations used in the Paper
 
 ## Installation and run instructions
-1. Install Julia from [Julia's webpage](https://julialang.org)
+1. Installing 
+ * Download Julia from [Julia's webpage](https://julialang.org)
+ * Make sure GitLFS is installed
 
 2. Install dependencies:
   * navigate into the main directory of the project
@@ -16,4 +18,5 @@
   * type `Using IJulia` followed by `notebook()` to load the dependency and start Jupyter's notebook
   * you might be asked whether to install jupyter, if in doubt type `y`
   * a new browser window should open with Jupyter in it
+  * withing the browser navigate to the project directory and open file `BJR solution.ipynb`
   * run and edit the code

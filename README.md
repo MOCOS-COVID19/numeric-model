@@ -9,6 +9,7 @@
   * enter Pkg by typing `]`
   * activate project by typing `activate .`
   * type `instantiate` to download and install dependencies
+  * type `precompile` to force precompilation od dependencies (optional)
 
 3. Run Jupyter
   * while running Pkg use `CTRL-C` or backspace to return from Pkg or start new Julia's REPL

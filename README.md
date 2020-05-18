@@ -18,5 +18,5 @@
   * type `Using IJulia` followed by `notebook()` to load the dependency and start Jupyter's notebook
   * you might be asked whether to install jupyter, if in doubt type `y`
   * a new browser window should open with Jupyter in it
-  * withing the browser navigate to the project directory and open file `BJR solution.ipynb`
+  * within the browser, navigate to the project directory and open file `BJR solution.ipynb`
   * run and edit the code

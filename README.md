@@ -1,4 +1,7 @@
 # Numerical computations used in the Paper
+## Requirements
+- Any OS that is supported by Julia
+- Julia pacakges listed in `Project.toml` and `Manifest.toml` (installation instructions below)
 
 ## Installation and run instructions
 1. Installing 
@@ -11,7 +14,7 @@
   * enter Pkg by typing `]`
   * activate project by typing `activate .`
   * type `instantiate` to download and install dependencies
-  * type `precompile` to force precompilation od dependencies (optional)
+  * type `precompile` to force precompilation of dependencies (optional)
 
 3. Run Jupyter
   * while running Pkg use `CTRL-C` or backspace to return from Pkg or start new Julia's REPL

@@ -14,4 +14,5 @@
 3. Run Jupyter
   * while running Pkg use `CTRL-C` or backspace to return from Pkg or start new Julia's REPL
   * type `Using IJulia` followed by `notebook()` to load the dependency and start Jupyter's notebook
+  * you might be asked whether to install jupyter, if in doubt type `y`
   * run and edit the code
